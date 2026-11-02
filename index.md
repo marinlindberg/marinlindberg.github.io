@@ -6,4 +6,4 @@ Master of Science in Business, major in Economics, BI.
 
 - Session 1: this page.
 
-[My GitHub page](https://marinlindberg.github.io/)
+[My GitHub page](https://github.com/marinlindberg/marinlindberg.github.io)
